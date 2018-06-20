@@ -71,9 +71,9 @@ nav{
 }
 .title{
 	font-weight:bold;
-	font-size:18pt;
+	font-size:36pt;
 	margin:0;
-	color:rgb(255,255,255);
+	color:rgb(0,0,255);
 	text-align:center;
 }
 .subtitle{
