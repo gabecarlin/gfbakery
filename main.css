@@ -1,7 +1,7 @@
 /*Bootstrap*/
 
 body{
-	background-color:rgb(10,10,255) !important;
+	background-color:rgb(20,20,20) !important;
 	font-family: 'Lato' !important;
 	
 }
@@ -16,16 +16,16 @@ nav{
 .topnav {
   margin-top:10px;
   overflow: hidden;
-  background-color: #333;
+  background-color: #444;
 }
 
 .topnav a {
   float: left;
   display: block;
-  color: rgb(255,255,255);
+  color: rgb(20,0,200);
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
+  text-decoration: underline;
   font-size: 17px;
 }
 
