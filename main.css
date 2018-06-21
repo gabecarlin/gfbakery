@@ -114,12 +114,13 @@ nav{
 img{
 	width:400px;
 	height:400px;
-	margin: 20px auto 2opx auto;
+	margin: 20px auto 20px auto;
 	padding: 20px; 
 }
 img_title{
 	display: block;
-	margin: 20px auto 2opx auto;
+	margin-right:auto;
+	margin-left:auto;
 	padding-top:10px;
 	padding-bottom:10px;
 	text-align:center;
