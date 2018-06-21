@@ -16,7 +16,7 @@ nav{
 .topnav {
   margin-top:10px;
   overflow: hidden;
-  background-color: rgb(100,100,100);
+  background-color: rgb(100,100,150);
 }
 
 .topnav a {
@@ -73,7 +73,7 @@ nav{
 	font-weight:bold;
 	font-size:36pt;
 	margin:0;
-	color:rgb(50,0,255);
+	color:rgb(0,84,219);
 	text-align:center;
 }
 .subtitle{
