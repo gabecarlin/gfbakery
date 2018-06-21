@@ -120,6 +120,7 @@ img{
 img_title{
 	display: inline;
 	margin: 20px auto 2opx auto;
-	padding: 20px; 
+	padding-top:10px;
+	padding-bottom:10px;
 	text-align:center;
 }
