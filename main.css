@@ -118,7 +118,7 @@ img{
 	padding: 20px; 
 }
 img_title{
-	display: inline;
+	display: block;
 	margin: 20px auto 2opx auto;
 	padding-top:10px;
 	padding-bottom:10px;
