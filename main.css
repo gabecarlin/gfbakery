@@ -89,7 +89,7 @@ nav{
 }
 .subtitle{
 	font-weight:500;
-	font-size:15pt;
+	font-size:10pt;
 	margin:0;
 	color:rgba(255,255,255,0.7);
 }
@@ -112,8 +112,8 @@ nav{
 }
 
 img{
-width:400px;
-height:400px;
-margin: 20px auto 2opx auto;
-padding: 20px; 
+	width:400px;
+	height:400px;
+	margin: 20px auto 2opx auto;
+	padding: 20px; 
 }
