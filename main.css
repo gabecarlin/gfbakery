@@ -121,4 +121,7 @@ img_title{
 	display: block;
 	margin-right:auto;
 	margin-left:auto;
+	font-weight:500;
+	font-size:15pt;
+	color:rgba(255,255,255,0.7);
 }
