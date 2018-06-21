@@ -112,8 +112,8 @@ nav{
 }
 
 headshot{
-	width:100px;
 	height:100px;
+	width:auto;
 	margin:10px auto 10px auto;
 	padding:5px; 
 }
