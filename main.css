@@ -80,9 +80,17 @@ nav{
 .col-lg-10{
 	margin:2vw auto 2vw auto;
 }
+.website_title{
+	font-weight:bold;
+	font-size:40pt;
+	margin:0;
+	color:rgb(155,155,155);
+	text-align:center;
+}
+
 .title{
 	font-weight:bold;
-	font-size:36pt;
+	font-size:30pt;
 	margin:0;
 	color:rgb(0,84,219);
 	text-align:center;
