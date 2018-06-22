@@ -124,3 +124,17 @@ nav{
 	margin:10px auto 10px auto;
 	padding:5px; 
 }
+.product{
+	width:400px;
+	height:400px;
+	margin: 20px auto 20px auto;
+	padding: 20px; 
+}
+.img_title{
+	display: block;
+	text-align:center;
+	margin:5px 0 5px 0;
+	font-weight:500;
+	font-size:15pt;
+	color:rgba(255,255,255,0.7);
+}
